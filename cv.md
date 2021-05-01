@@ -28,3 +28,7 @@ Faculty of transport communications
 ## Courses
 2020<br />
 Online courses iOS Swiftbook
+
+## Languages
+Russian — Native<br />
+English — A2
